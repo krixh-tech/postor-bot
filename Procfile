@@ -1,1 +1,1 @@
-
+worker: python posterbot.py
